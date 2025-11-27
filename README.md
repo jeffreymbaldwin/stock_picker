@@ -44,8 +44,8 @@ This means:
 
 ## Reflection
 
-When I first started this project, I tried to think about it in the simplest way possible—like finding the largest number in the array and then the smallest number after it in the index. That approach quickly fell apart, though. I realized I needed to use an algorithm that checked every possible buy/sell pair in order to find the absolute best days to buy and sell.
+When I first started this project, I tried to think about it in the simplest way possible, like finding the largest number in the array and then the smallest number after it in the index. That approach quickly fell apart, though. I realized I needed to use an algorithm that checked every possible buy/sell pair in order to find the absolute best days to buy and sell.
 
 I knew I needed nested loops, but this was the first time I had actually used them in a real project. So I had to slow down, go back to basics, and really understand what each loop was doing and how the values of the loop variables changed with every iteration.
 
-Once I fully understood the assignment and had a solid mental model of how the nested loops should work, the implementation became much easier. The logic fell naturally into place as I worked through the steps, and writing the final code felt straightforward.
+Once I fully understood the assignment and had a solid idea of how the nested loops should work, the implementation became much easier. The logic fell naturally into place as I worked through the steps, and writing the final code felt straightforward.
