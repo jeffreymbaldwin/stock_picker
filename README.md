@@ -4,7 +4,7 @@
 A Ruby method that takes an array of stock prices and returns the best pair of days to buy and sell for maximum profit. 
 
 ## Purpose
-Practice:
+This is a practice assignment from The Odin Project. It focuses on:
 - nested loops
 - comparing values
 - tracking best results
